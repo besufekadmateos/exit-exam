@@ -1,0 +1,22 @@
+[
+  {
+    "question": "The force per unit area gives ______",
+    "answers": [
+      "Strain",
+      "Speed",
+      "Stress",
+      "Acceleration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a bearing?",
+    "answers": [
+      "To transmit power",
+      "To reduce friction between moving parts",
+      "To increase torque",
+      "To change direction of motion"
+    ],
+    "correctIndex": 1
+  }
+]

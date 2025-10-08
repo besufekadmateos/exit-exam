@@ -1,0 +1,1225 @@
+[
+  {
+    "question": "What is the purpose of a remote terminal unit (RTU) in a SCADA system?",
+    "answers": [
+      "To collect data from sensors and other devices",
+      "To send signals to actuators and other devices",
+      "To store data related to the operation of the system",
+      "To provide a user interface for the system"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following factors affect the efficiency of an induction machine?",
+    "answers": [
+      "The size of the machine",
+      "The speed of the rotor",
+      "The resistance of the rotor",
+      "The frequency of the power supply"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The force per unit area gives ______",
+    "answers": [
+      "Strain",
+      "Speed",
+      "Stress",
+      "Acceleration"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the primary function of a SCADA system?",
+    "answers": [
+      "To monitor and control a large-scale industrial process or facility",
+      "To provide a user interface for a machine or process",
+      "To store data related to a machine or process",
+      "To analyze data related to a machine or process"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "An ideal fluid is",
+    "answers": [
+      "one which obeys Newton's law of viscosity",
+      "frictionless and in-compressible",
+      "very viscous",
+      "frictionless and compressible"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The pair is known as a higher pair when the relative motion between the elements of a pair is",
+    "answers": [
+      "turning only",
+      "Sliding only",
+      "rolling only",
+      "partly turning and partly sliding"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A 2-kW electric resistance heater in a room is turned on and kept on for 30 min. The amount of energy transferred to the room by the heater is",
+    "answers": [
+      "1 kJ",
+      "60 kJ",
+      "1800 kJ",
+      "3600 kJ",
+      "7200 kJ"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The law which states that within elastic limits strain produced is proportional to the stress producing it is known as _____________",
+    "answers": [
+      "Bernoulli's law",
+      "Hooke's law",
+      "Stress law",
+      "Poisson's law"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the primary advantage of using fuzzy logic in control systems?",
+    "answers": [
+      "It allows for more precise control of a system",
+      "It is easier to program than other types of control systems",
+      "It can handle imprecise or uncertain data",
+      "It is less expensive than other types of control systems"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In which of the following the friction drag is generally larger than the pressure drag?",
+    "answers": [
+      "a circular disc or plate held normal to flow",
+      "a sphere",
+      "a cylinder",
+      "an airfoil"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the purpose of an output module in a PLC system?",
+    "answers": [
+      "To send signals to actuators and other devices",
+      "To receive signals from sensors and other devices",
+      "To store data related to the operation of the system",
+      "To provide a user interface for the system"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the primary advantage of using smart sensors in industrial automation systems?",
+    "answers": [
+      "They are less expensive than traditional sensors",
+      "They are more accurate than traditional sensors",
+      "They are easier to install than traditional sensors",
+      "They are capable of providing more information than traditional sensors"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A 3-m2 hot black surface at 80°C is losing heat to the surrounding air at 25°C by convection with a convection heat transfer coefficient of 12 W/m2.°C, and by radiation to the surrounding surfaces at 15°C. The total rate of heat loss from the surface is",
+    "answers": [
+      "1987 W",
+      "2239 W",
+      "2348 W",
+      "3451 W",
+      "3811 W"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Smallest change in which a sensor can detect is _______",
+    "answers": [
+      "Resolution",
+      "Accuracy",
+      "Precision",
+      "Scale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the no-load impedance of a transformer with a rated voltage of 480 V and a rated current of 100 A, if the applied voltage is 240 V and the measured current is 2 A during an open circuit test?",
+    "answers": [
+      "24 ?",
+      "2 ?",
+      "12 ?",
+      "120 ?",
+      "240 ?"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "LVDT works on the principle of ___________",
+    "answers": [
+      "Variable resistance",
+      "Variable inductance",
+      "Variable capacitance",
+      "Variable pressure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A rectangular iron core with a cross-sectional area of 10 cm^2 and a length of 20 cm is wound with a coil of 1000 turns. The core has a relative permeability of 2000. If a current of 5 A is passed through the coil, what is the magnetic flux density in the core?",
+    "answers": [
+      "25 T",
+      "50 T",
+      "75 T",
+      "00 T"
+    ],
+    "correctIndex": -1
+  },
+  {
+    "question": "In a heating system, cold outdoor air at 10°C flowing at a rate of 6 kg/min is mixed adiabatically with heated air at 70°C flowing at a rate of 3 kg/min. The exit temperature of the mixture is",
+    "answers": [
+      "30°C",
+      "40°C",
+      "45°C",
+      "55°C",
+      "85°C"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the purpose of an input module in a PLC system?",
+    "answers": [
+      "To receive signals from sensors and other devices",
+      "To send signals to actuators and other devices",
+      "To store data related to the operation of the system",
+      "To provide a user interface for the system"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is used to measure the discharge?",
+    "answers": [
+      "current meter",
+      "venturi meter",
+      "pitot tube",
+      "hotwire anemometer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "___________can measure pressure directly.",
+    "answers": [
+      "Rotameter",
+      "Bourdon tube",
+      "LVDT",
+      "Strain gauge"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In a coupling rod of a locomotive, each of the four pairs is a __________ pair.",
+    "answers": [
+      "sliding",
+      "turning",
+      "rolling",
+      "screw"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the principle of operation of LVDT?",
+    "answers": [
+      "Mutual Inductance",
+      "Self-Inductance",
+      "Permeance",
+      "Reluctance"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The Coriolis component of acceleration acts",
+    "answers": [
+      "along the sliding surface",
+      "perpendicular to the sliding surface",
+      "at 45° to the sliding surface",
+      "parallel to the sliding surface"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In the case of an airfoil, the separation of flow occurs",
+    "answers": [
+      "at the extreme rear of the body",
+      "at the extreme front of the body",
+      "midway between the rear and front of the body",
+      "anywhere between the rear and front of the body depending upon Reynolds number"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a MEMS sensor?",
+    "answers": [
+      "A type of smart sensor that uses micro-electromechanical systems technology",
+      "A type of sensor that is used to measure temperature",
+      "A type of sensor that is used to measure pressure",
+      "A type of sensor that is used to measure the flow rate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following devices use magnetic circuits to convert electrical energy into mechanical energy?",
+    "answers": [
+      "Solar panels",
+      "Speakers",
+      "Transformers",
+      "Cathode Ray Tubes \nFeedback\nThe correct answer is: Speakers\nWhich of the following can be measured using Tachometer?\nSelect one:",
+      "Angular speed",
+      "Linear speed",
+      "Acceleration",
+      "Vibration"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "A rod 150cm long and of diameter 2cm is subjected to an axial pull of 20kN. What will be the stress?",
+    "answers": [
+      "60 N/mm2",
+      "65 N/mm2",
+      "6 N/mm2",
+      "2 N/mm2"
+    ],
+    "correctIndex": -1
+  },
+  {
+    "question": "For laminar flow in a pipe of circular cross-section, Darcy's friction factor f is",
+    "answers": [
+      "directly proportional to Reynolds number and independent of pipe wall roughness",
+      "directly proportional to pipe wall roughness and independent of Reynolds number",
+      "inversely proportional to Reynolds number and independent of pipe wall roughness",
+      "inversely proportional to Reynolds number and directly proportional to pipe wall roughness"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The position of the center of pressure on a plane surface immersed vertically in a static mass of fluid is",
+    "answers": [
+      "at the centroid of the submerged area",
+      "always above the centroid of the area",
+      "always below the centroid of the area"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Two identical solenoids with 500 turns each are placed one above the other with their axes coinciding. The top solenoid carries a current of 2 A while the bottom solenoid carries a current of 4 A in the opposite direction. What is the magnetic flux density at a point equidistant from the centers of the solenoids, if the radius of each solenoid is 5 cm and the distance between their centers is 10 cm?",
+    "answers": [
+      "00 x 10-5 T",
+      "00 x 10-5 T",
+      "00 x 10-5 T",
+      "00 x 10-5 T"
+    ],
+    "correctIndex": -1
+  },
+  {
+    "question": "The atmospheric pressures at the top and the bottom of a building are read by a barometer to be 96.0 and 98.0 kPa. If the density of air is 1.0 kg/m3, the height of the building is",
+    "answers": [
+      "17 m",
+      "20 m",
+      "170 m",
+      "204 m",
+      "252 m"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of these are types of normal stresses?",
+    "answers": [
+      "Tensile and compressive stresses",
+      "Tensile and thermal stresses",
+      "Shear and bending",
+      "Compressive and plane stresses"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In RVDT the mutual inductance between the primary and secondary coil varies",
+    "answers": [
+      "Linear with angular displacement",
+      "Non-linear with angular displacement",
+      "Linear with linear displacement",
+      "Non-linear with non-linear displacement"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The cam and follower is an example of",
+    "answers": [
+      "sliding pair",
+      "rolling pair",
+      "lower pair",
+      "higher pair"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the relationship between the reluctance of a magnetic circuit and its ability to conduct magnetic fields?",
+    "answers": [
+      "A magnetic circuit with low reluctance conducts magnetic fields more easily than a circuit with high reluctance.",
+      "A magnetic circuit with high reluctance conducts magnetic fields more easily than a circuit with low reluctance.",
+      "The reluctance of a magnetic circuit has no impact on its ability to conduct magnetic fields.",
+      "The ability of a magnetic circuit to conduct magnetic fields is solely determined by its cross-sectional area."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hooke's law holds good up to",
+    "answers": [
+      "Yield point",
+      "Limit of proportionality",
+      "Breaking point",
+      "Elastic limit",
+      "Plastic limit."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does it mean by \"back EMF\" in a DC machine?",
+    "answers": [
+      "The voltage that is induced in the armature due to the rotation of the rotor",
+      "The voltage that is supplied to the armature to produce a magnetic field",
+      "The voltage that is generated in the field winding to produce a magnetic field",
+      "The voltage that is supplied to the field winding to maintain a constant magnetic field strength."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The pitot tube is used to measure",
+    "answers": [
+      "velocity at a stagnation point",
+      "stagnation pressure",
+      "static pressure",
+      "dynamic pressure"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Deformation per unit length in the direction of force is known as",
+    "answers": [
+      "Strain",
+      "Lateral strain",
+      "Linear strain",
+      "Linear stress",
+      "Unit strain."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is a fuzzy set?",
+    "answers": [
+      "A set of data that is precise and well-defined",
+      "A set of data that is imprecise or uncertain",
+      "A set of data that is used to program a PLC",
+      "A set of data that is used to program a SCADA system"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Whitworth quick return motion mechanism is formed in a slider crank chain when the",
+    "answers": [
+      "coupler link is fixed",
+      "longest link is a fixed link",
+      "slider is a fixed link",
+      "smallest link is a fixed link"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which is an active transducer?",
+    "answers": [
+      "Strain gauge",
+      "Selsyn",
+      "Photo voltaic cell",
+      "Photo emissive cell"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "With the same cross-sectional area and immersed in the same turbulent flow, the largest total drag will be on",
+    "answers": [
+      "a circular disc of the plate held normal to flow",
+      "a sphere",
+      "a cylinder",
+      "a streamlined body"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a smart sensor?",
+    "answers": [
+      "A sensor that is capable of communicating with other devices",
+      "A sensor that is capable of self-diagnosis and self-calibration",
+      "A sensor that is capable of measuring multiple parameters",
+      "A sensor that is capable of operating in extreme environments"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "_____ is the region in the stress-strain curve that obeys Hooke's law.",
+    "answers": [
+      "Yield Point",
+      "Proportional Limit",
+      "Breaking Point"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The acceleration of the particle moving with simple harmonic motion is inversely proportional to the displacement of the particle from the mean position.",
+    "answers": [
+      "Yes",
+      "No"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following is not a type of Pressure sensing element?",
+    "answers": [
+      "Bellows",
+      "Bourdon tube",
+      "Manometer",
+      "Orifice plate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is fuzzy logic?",
+    "answers": [
+      "A type of programming language used to program PLCs",
+      "A type of control system that uses imprecise or uncertain data",
+      "A type of communication protocol used in SCADA systems",
+      "A type of sensor used in industrial automation systems"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Young's modulus is defined as the ratio of",
+    "answers": [
+      "Volumetric stress and volumetric strain",
+      "Lateral stress and lateral strain",
+      "Longitudinal stress and longitudinal strain",
+      "Shear stress to shear strain",
+      "Longitudinal stress and lateral strain."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Consider a 2-m deep swimming pool. The pressure difference between the top and bottom of the pool is",
+    "answers": [
+      "0 kPa",
+      "6 kPa",
+      "1 kPa",
+      "8 kPa",
+      "200 kPa"
+    ],
+    "correctIndex": -1
+  },
+  {
+    "question": "In a four-bar chain or quadric cycle chain",
+    "answers": [
+      "each of the four pairs is a turning pair",
+      "one is a turning pair and three are sliding pairs",
+      "two are turning pairs and two are sliding pairs",
+      "three are turning pairs and one is a sliding pair"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In steady state forced vibrations, the amplitude of vibrations at resonance is __________ damping coefficient.",
+    "answers": [
+      "equal to",
+      "directly proportional to",
+      "inversely proportional to",
+      "independent of"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the purpose of a human-machine interface (HMI) in a SCADA system?",
+    "answers": [
+      "To provide a user interface for the system",
+      "To collect data from sensors and other devices",
+      "To send signals to actuators and other devices",
+      "To store data related to the operation of the system"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Equal and opposite forces applied to a body tend to elongate it, the stress so produced is called",
+    "answers": [
+      "Internal resistance",
+      "Tensile stress",
+      "Transverse stress",
+      "Compressive stress",
+      "Working stress"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "An automobile steering gear is an example of",
+    "answers": [
+      "sliding pair",
+      "rolling pair",
+      "lower pair",
+      "higher pair"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following statements accurately describes the relationship between Ampere's Law and the operation of a transformer?",
+    "answers": [
+      "Ampere's Law is not applicable to the operation of transformers, as transformers rely on the principles of electromagnetic induction.",
+      "Ampere's Law can be used to calculate the magnetic field intensity in the core of a transformer, which is crucial for its operation.",
+      "Ampere's Law is only applicable to transformers that use DC power sources and has no relevance to AC transformers.",
+      "Ampere's Law is used to calculate the voltage ratio between the primary and secondary coils of a transformer, which determines the output voltage of the device."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Closeness of measured value to true value is ___________",
+    "answers": [
+      "Accuracy",
+      "Precision",
+      "Correction",
+      "Uncertainty"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "________ Curve is formed due to the bending of beams.",
+    "answers": [
+      "Elastic",
+      "Plastic",
+      "Flexural",
+      "Axial"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Electrical Strain Gauge works on the principle of ___________",
+    "answers": [
+      "Variation of resistance",
+      "Variation of capacitance",
+      "Variation of inductance",
+      "Variation of area"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A body in motion will be subjected to Coriolis acceleration when that body is",
+    "answers": [
+      "in plane rotation with variable velocity",
+      "in plane translation with variable velocity",
+      "in plane motion which is a resultant of plane translation and rotation",
+      "restrained to rotate while sliding over another body"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which one of the following is not significance of the squirrel cage induction motor in comparison to the wound rotor induction motor?",
+    "answers": [
+      "It has a better space factor for rotor slots, a shorter overhang, and consequently smaller copper loss.",
+      "It has bare end rings and a larger space for fans, and thus the cooling conditions are better.",
+      "It is possible to insert resistance in the rotor circuit for the purpose of increasing the starting torque, reducing the starting current, and varying the speed.",
+      "It has slightly higher efficiency, is cheaper, and is rugged in construction."
+    ],
+    "correctIndex": 2
+  },
+
+  {
+    "question": "In the volumetric strain, the deforming force produces a change in _____.",
+    "answers": [
+      "Length",
+      "Volume"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Upon the removal of a deforming force, the inability of the body to regain its original shape and size is known as _____.",
+    "answers": [
+      "Plasticity",
+      "Un-deformation",
+      "Elasticity",
+      "Hook's constant"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A 4-pole, 50 Hz, 3-phase induction motor has a rotor resistance of 0.024 ? per phase and standstill reactance of 0.6 ? per phase. What could be the speed at which the maximum torque is developed?",
+    "answers": [
+      "1440 rpm",
+      "1650 rpm",
+      "1550 rpm",
+      "1330 rpm"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following devices can measure the largest flow rate?",
+    "answers": [
+      "V-Notch",
+      "Rotameter",
+      "Orifice",
+      "Weir"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "A floating body is said to be in a state of stable equilibrium",
+    "answers": [
+      "when its metacentric height is zero",
+      "when the metacenter is above the center of gravity",
+      "when the metacenter is below the center of gravity",
+      "Only when its center of gravity is below its center of buoyancy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "How is the synchronizing process accomplished in a synchronous machine?",
+    "answers": [
+      "By adjusting the rotor speed to match the frequency of the power system",
+      "By adjusting the excitation current to match the voltage of the power system",
+      "By adjusting the stator winding connections to match the phase of the power system",
+      "By adjusting the brush contacts to match the polarity of the power system",
+      "None of the above"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What will be the minimum diameter of a steel wire, which is used to raise a load of 4000N if the stress in the rod is not to exceed 95 MN/m2?",
+    "answers": [
+      "6mm",
+      "4mm",
+      "7mm",
+      "3mm"
+    ],
+    "correctIndex": -1
+  },
+  {
+    "question": "A steel bar of 40mm x 40mm square cross-section is subjected to an axial compressive load of 200kN. If the length of the bar is 2m and E=200GPa, the elongation of the bar will be ____________",
+    "answers": [
+      "25mm",
+      "70mm",
+      "05mm",
+      "40mm"
+    ],
+    "correctIndex": -1
+  },
+  {
+    "question": "The major loss of energy in long pipes is due to",
+    "answers": [
+      "sudden enlargement",
+      "sudden contraction",
+      "gradual contraction or enlargement",
+      "friction"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is defuzzification in fuzzy logic?",
+    "answers": [
+      "The process of converting a fuzzy output into a crisp output",
+      "The process of converting a crisp input into a fuzzy input",
+      "The process of adjusting the membership functions in a fuzzy system",
+      "The process of adjusting the rules in a fuzzy system"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is ladder logic?",
+    "answers": [
+      "A programming language used to program PLCs",
+      "A type of sensor used in PLC systems",
+      "A type of actuator used in PLC systems",
+      "A type of communication protocol used in PLC systems"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of the following is a higher pair?",
+    "answers": [
+      "Belt and pulley",
+      "Turning pair",
+      "Screw pair",
+      "Sliding pair"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is a membership function in fuzzy logic?",
+    "answers": [
+      "A function that determines the degree to which input belongs to a fuzzy set",
+      "A function that determines the degree to which output should be adjusted",
+      "A function that determines the degree to which a system is in control",
+      "A function that determines the degree to which a system is out of control"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Where in the stress-strain curve, the Hooke's law is valid?",
+    "answers": [
+      "Strain hardening region",
+      "Necking region",
+      "Elastic range",
+      "Valid everywhere"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Strain gauge, LVDT, and thermocouple are examples of",
+    "answers": [
+      "Active transducer",
+      "Passive transducer",
+      "Analog transducer",
+      "Primary transducer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Function of a transducer is to convert",
+    "answers": [
+      "Electrical signal into non-electrical quantity",
+      "Non-electrical quantity into an electrical signal",
+      "Electrical signal into mechanical quantity",
+      "Physical quantity into a chemical quantity"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The materials having the same elastic properties in all directions are called",
+    "answers": [
+      "Ideal materials",
+      "Uniform materials",
+      "Isotropic materials",
+      "Paractical materials",
+      "Elastic materials"
+    ],
+    "correctIndex": 2
+  },
+  
+  {
+    "question": "Pitot tube is used",
+    "answers": [
+      "For highly accurate flow measurement",
+      "When the fluid contains a lot of suspended material",
+      "When the line is large and the velocity is high"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Modulus of rigidity is defined as the ratio of",
+    "answers": [
+      "Longitudinal stress and longitudinal strain",
+      "Volumetric stress and volumetric strain",
+      "Lateral stress and lateral strain",
+      "Shear stress and shear strain",
+      "Linear stress and lateral strain"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Hot wire anemometer is used to measure",
+    "answers": [
+      "discharge",
+      "velocity of the gas",
+      "pressure intensity of gas",
+      "pressure intensity of a liquid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When a point at the end of a link moves with constant angular velocity, its acceleration will have",
+    "answers": [
+      "radial component only",
+      "tangential component only",
+      "Coriolis component only",
+      "radial and tangential components both"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The sliding pairs, turning pairs, and screw pairs form lower pairs.",
+    "answers": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The velocity distribution for laminar flow through a circular tube",
+    "answers": [
+      "is constant over the cross-section",
+      "varies linearly from zero at the walls to the maximum at the center",
+      "varies parabolically with the maximum at the center"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Whitworth quick return motion mechanism consists of three turning pairs and one sliding pair.",
+    "answers": [
+      "Right",
+      "Wrong"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When one of the links of a kinematic chain is fixed, the chain is known as a",
+    "answers": [
+      "structure",
+      "mechanism",
+      "inversion",
+      "machine"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If the radius of wire stretched by a load is doubled, then its Young's modulus will be",
+    "answers": [
+      "Doubled",
+      "Halved",
+      "Become four times",
+      "Become one-fourth",
+      "Remain unaffected"
+    ],
+    "correctIndex": 4
+  },
+  {
+    "question": "What is the Bernoulli's equation used for?",
+    "answers": [
+      "To calculate the pressure drop in a pipe.",
+      "To calculate the velocity of a fluid in a pipe.",
+      "To calculate the flow rate of a fluid in a pipe.",
+      "To relate pressure, velocity, and elevation in a fluid."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is the difference between laminar and turbulent flow?",
+    "answers": [
+      "Laminar flow is smooth and orderly, while turbulent flow is chaotic and irregular.",
+      "Laminar flow has high Reynolds number, while turbulent flow has low Reynolds number.",
+      "Laminar flow occurs at high velocities, while turbulent flow occurs at low velocities.",
+      "Laminar flow is more viscous than turbulent flow."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Why the airplane wing can lift the plane?",
+    "answers": [
+      "The wing profile capable of inducing high fluid velocity on the bottom of the wing than the upper surface",
+      "The wing profile capable of inducing high fluid pressure on the bottom of the wing than the upper surface",
+      "The wing profile capable of inducing low fluid velocity on the upper surface of the wing than the lower surface",
+      "The wing profile capable of inducing low fluid pressure on the bottom of the wing than the upper surface"
+    ],
+    "correctIndex": 1
+  },
+
+  {
+    "question": "In a beam subjected to bending, where is the maximum compression stress typically observed?",
+    "answers": [
+      "Neutral axis",
+      "enter of the beam",
+      "Top surface",
+      "ottom surface"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following loading scenarios is most likely to cause a column to experience its maximum level of stress?",
+    "answers": [
+      "xial compression",
+      "Shear",
+      "Torsion",
+      "ending"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the SI unit of tensile strain?",
+    "answers": [
+      "Meter per second (m/s)",
+      "Pascal (Pa)",
+      "Newton (N)",
+      "dimensionless"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": ". In which scenario would shear strain be maximized?",
+    "answers": [
+      "material subjected to bending stress",
+      "material subjected to compressive stress",
+      "material subjected to torsional stress",
+      "material subjected to tensile stress"
+    ],
+    "correctIndex": 2
+  },
+ 
+  {
+    "question": "Which type of loading causes a material to undergo stretching or elongation?",
+    "answers": [
+      "Torsional loading",
+      "ompressive loading",
+      "Shear loading",
+      "Tensile loading"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which of the following DOES NOT have a major effect on a circular shaft's torsional strength?",
+    "answers": [
+      "applied torque",
+      "Material composition",
+      "Shaft length",
+      "Shaft diameter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What is the function of a gear in power transmission systems?",
+    "answers": [
+      "To change the direction of rotation",
+      "To eliminate the need for lubrication",
+      "To increase energy losses",
+      "To decrease the efficiency of the system"
+    ],
+    "correctIndex": 0
+  },
+
+   
+  {
+    "question": "What are the elements of measurement systems?",
+    "answers": [
+      "Sensors, signal conditioning, data acquisition and processing",
+      "Actuators, controllers, signal processing and communication systems",
+      "Electrical, mechanical and computational components",
+      "Motors, gears, and pulleys"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What are the various forms of control systems?",
+    "answers": [
+      "Open-loop and closed-loop",
+      "Electrical and mechanical",
+      "Analog and digital",
+      "Input and output"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What are the elements of open-loop control systems?",
+    "answers": [
+      "Sensors, actuators, and controllers",
+      "Input, process and output",
+      "Feedback loop and error correction",
+      "Only a sensor is used"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What are the elements of closed-loop control systems?",
+    "answers": [
+      "Sensors, actuators, and controllers",
+      "Input, process and output",
+      "Feedback loop and error correction",
+      "Only a sensor is used"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "What the design process is as applied to mechatronics systems?",
+    "answers": [
+      "A process of designing only mechanical components",
+      "A process of designing only electrical components",
+      "A process of designing only computational components",
+      "A process of designing integrated electrical, mechanical and computational components"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "What is signal conditioning?",
+    "answers": [
+      "The process of designing sensors for measurement systems",
+      "The process of removing noise and amplifying signals from sensors",
+      "The process of data acquisition and processing",
+      "The process of controlling a system using feedback loops"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which of the following statements is true regarding electromechanical devices?",
+    "answers": [
+      "Electromechanical devices use purely electrical energy to perform mechanical tasks.",
+      "Electrical and mechanical actuation systems are not considered types of electromechanical devices.",
+      "Electromechanical devices use a combination of electrical and mechanical energy to perform tasks.",
+      "Electromechanical devices are exclusively used in mechanical engineering applications."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which of the following is a component of a microprocessor system?",
+    "answers": [
+      "Keyboard",
+      "Mouse",
+      "Monitor",
+      "Central Processing Unit (CPU)"
+    ],
+    "correctIndex": 3
+  },
+ 
+  {
+    "question": "If the flow is steady, incompressible and viscid, the energy line is",
+    "answers": [
+      "Horizontal",
+      "vertical",
+      "angular",
+      "perpendicular"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cavitation occurs when the pressure is reduced to the",
+    "answers": [
+      "Vapor pressure",
+      "melting pressure",
+      "cooling pressure",
+      "None"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The bernoulli's equation can be written in terms of heights called",
+    "answers": [
+      "Columns",
+      "heads",
+      "lengths",
+      "None"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The flow in which each particle of fluid follows an irregular path is called",
+    "answers": [
+      "Laminar flow",
+      "Mixed flow",
+      "Turbulent flow",
+      "none"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The surface tension of mercury at normal temperature compared to that of water is deepening on tube",
+    "answers": [
+      "more",
+      "less",
+      "same",
+      "more or less"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The stress strain relation of the newtonian fluid is",
+    "answers": [
+      "linear",
+      "parabolic",
+      "hyperbolic",
+      "inverse type"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The buoyant force has a magnitude equal to the weight of the fluid displaced by the body and is directed vertically upward. This statement is called as",
+    "answers": [
+      "Archimedes principle",
+      "Fluid principle",
+      "buoyancy principle",
+      "none"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A completely submerged body with its center of gravity above its center of buoyancy is in",
+    "answers": [
+      "Stable equilibrium position",
+      "unstable equilibrium position",
+      "forced equilibrium position",
+      "no"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Center of buoyancy is the",
+    "answers": [
+      "center of pressure of displaced volume",
+      "centroid of the displaced",
+      "like floating body",
+      "does not exist"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Specific weight of a sea water is more that of pure water because it contains",
+    "answers": [
+      "dissolved water",
+      "dissolved salt",
+      "suspended matter",
+      "all"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Piezometer is used to measure",
+    "answers": [
+      "pressure in pipes, channels etc,",
+      "atmospheric pressure",
+      "very low pressure",
+      "difference of pressure between two points"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Choose the wrong statement",
+    "answers": [
+      "The horizontal component of the hydrostatic force on any surface is equal to the normal force on the vertical projection of the surface",
+      "The horizontal component acts through the center of pressure for the vertical projection",
+      "The vertical component of the hydrostatic force on any surface is equal to the weight of the volume of the liquid above the area",
+      "The vertical component passes through the center of pressure of the volume"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "An ideal flow of any fluid must satisfy",
+    "answers": [
+      "pascal law",
+      "Newton's law of viscosity",
+      "boundary layer theory",
+      "continuity equation"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "The fluid forces considered in the Navier Stokes equation are",
+    "answers": [
+      "gravity, pressure and viscous",
+      "gravity, pressure and turbulent",
+      "pressure, viscous and turbulent",
+      "gravity, viscous and turbulent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Hot wire anemometer is used to measure",
+    "answers": [
+      "pressure in gases",
+      "liquid discharge",
+      "pressure in liquids",
+      "gas velocities"
+    ],
+    "correctIndex": 3
+  }
+]

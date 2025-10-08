@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is Ohm's Law?",
+    "answers": [
+      "V = IR",
+      "P = IV",
+      "E = mc²",
+      "F = ma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which material is commonly used as a semiconductor?",
+    "answers": [
+      "Copper",
+      "Silicon",
+      "Aluminum",
+      "Iron"
+    ],
+    "correctIndex": 1
+  }
+]
